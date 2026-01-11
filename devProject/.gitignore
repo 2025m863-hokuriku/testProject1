@@ -1,0 +1,16 @@
+# 虚拟环境
+venv/
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 编辑器 / OS 依赖
+.vscode/
+.idea/
+.DS_Store
+
+# Django 特有
+db.sqlite3
+*.log
